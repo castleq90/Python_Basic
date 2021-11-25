@@ -143,3 +143,4 @@ a = 'z'
 
 print(ord(a)) # 아스키 코드로
 print(chr(122)) # 문자로
+
